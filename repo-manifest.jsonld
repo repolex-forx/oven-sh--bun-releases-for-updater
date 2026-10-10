@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/oven-sh/bun-releases-for-updater/commit/f4ee441176092464e763aede4a622d26a03a70cd",
       "git:hexsha": "f4ee441176092464e763aede4a622d26a03a70cd",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "bun-v1.4.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "bun-v1.4.3",
+      "repolex:parsedAt": "2026-10-10T13:08:29.382832+00:00"
     },
     {
       "@id": "https://repolex.ai/r/oven-sh/bun-releases-for-updater/commit/2e2d843a912c64ae21d6dc5a76d98d423ae14529",
