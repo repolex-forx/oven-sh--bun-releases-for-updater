@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "oven-sh",
+  "repo": "bun-releases-for-updater",
+  "versions": [
+    {
+      "commit": "f4ee441176092464e763aede4a622d26a03a70cd",
+      "parsed_at": "2026-10-10T13:03:25.201832+00:00",
+      "tag": "bun-v1.3.1",
+      "filetree": "filetree/f4ee441176092464e763aede4a622d26a03a70cd.nq.gz",
+      "blobs": [
+        "blob/9219b712f0f71a98c50789580914214fdb4455f8.nq.gz",
+        "blob/960e70e0e80a85263f91eb17f417bcfa57d43fd7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
