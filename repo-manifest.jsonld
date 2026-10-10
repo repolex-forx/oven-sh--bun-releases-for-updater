@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/oven-sh/bun-releases-for-updater/commit/f4ee441176092464e763aede4a622d26a03a70cd",
       "git:hexsha": "f4ee441176092464e763aede4a622d26a03a70cd",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "bun-v1.4.3"
     },
     {
